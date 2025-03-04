@@ -1,1 +1,4 @@
 # Git-branches First commit yet in the main branch
+
+# Lorem do branch dev3
+Etiam condimentum non sem vitae efficitur. Maecenas gravida purus at porttitor hendrerit. Quisque non massa malesuada orci vehicula ornare vitae ac ipsum. Donec semper ante a dui aliquam, sed scelerisque nibh ullamcorper. Ut varius risus est, ac euismod mauris consectetur quis. Integer id congue purus. Donec mollis bibendum felis vel volutpat. Integer et ornare risus, in convallis nunc. Pellentesque scelerisque urna vel risus molestie, id dignissim purus imperdiet. Sed tincidunt leo eu gravida maximus. Maecenas eu odio a sapien dictum tempor. Suspendisse hendrerit vel mi in vulputate. Nunc auctor rutrum orci, eget hendrerit mauris luctus et. Praesent luctus dignissim ullamcorper. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae;
