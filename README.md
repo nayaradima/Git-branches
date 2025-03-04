@@ -1,1 +1,4 @@
 # Git-branches
+
+# Lorem do branch dev2
+Donec porta tempor metus, ut accumsan lectus vulputate ut. Quisque cursus pulvinar suscipit. Nullam pulvinar nunc nunc, non ornare sem ultricies at. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Praesent quis vehicula ex. Aliquam erat volutpat. Morbi non ligula a justo sollicitudin accumsan vitae ut libero. Maecenas sit amet egestas nunc, a scelerisque quam. Sed lobortis diam in purus pellentesque hendrerit. Praesent pellentesque, ipsum nec condimentum placerat, felis risus mattis ligula, id vestibulum risus lectus eget odio. Aenean sit amet mattis leo. Aenean lobortis ipsum ligula, non bibendum libero facilisis et.
